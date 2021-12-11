@@ -5,4 +5,4 @@ Hello there!
 - I have been working with unity and c# for 3+ years.
 - I love videogames, programming and reading.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelario)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
