@@ -1,8 +1,8 @@
 <h3>Hello there!</h3>
 
-- I recently finnished a 2D rogue-like game in Unity called Shootingat Resolved, and I am working on updates at the moment.
+- I recently finnished a 2D rogue-like game in Unity called Shootingat Resolved.
 - I am currently learning about c++ and game engines (I am trying to create my own engine).
-- I am also doing a tutorial series in YouTube (in Spanish) about how to make a top-down roguelike shooter game in Unity.
+- I am also doing a game of minigames, inspired by Wario Ware and Pureya, but with a casual style and for mobile phones.
 - I have been working with unity and c# for 3+ years.
 - I love videogames, programming and reading.
 
