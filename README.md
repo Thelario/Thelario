@@ -6,5 +6,5 @@
 - I have been working with unity and c# for 3+ years.
 - I love videogames, programming and reading.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thelario&theme=radical&hide=ShaderLab,Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thelario&theme=radical&hide=ShaderLab,Jupyter_Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
