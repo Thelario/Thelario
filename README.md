@@ -6,4 +6,4 @@
 - I love videogames, programming and reading (I also love eating hummus).
 - I am currently making a game about stickers!!
 
-[![Pablo's GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thelario&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=radical)
+[![Pablo's GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thelario&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=3&theme=radical)
