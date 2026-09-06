@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌈 HELLO THERE! 👾
+# HELLO THERE! 👾
 
 ### `GAME DEVELOPER` · `PROGRAMMER` · `HUMMUS ENTHUSIAST`
 
@@ -37,18 +37,6 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-### ⚡ CURRENTLY
-
-`C++` `GAME ENGINES` `UNITY` `C#` `STICKERS` `HUMMUS`
-
-<br>
-
-### 🔥 THE VIBE
-
-**BUILD → BREAK → LEARN → REPEAT**
 
 </div>
 
