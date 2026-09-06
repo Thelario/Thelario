@@ -2,7 +2,7 @@
   
   # HELLO THERE! 👾
   
-  ## `GAME DEVELOPER` · `PROGRAMMER` · `HUMMUS ENTHUSIAST`
+  ### `GAME DEVELOPER` · `PROGRAMMER` · `HUMMUS ENTHUSIAST`
   
   ### 🚀 What I'm up to
   
@@ -14,4 +14,6 @@
 
 </div>
 
-[![Pablo's GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thelario&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=3&theme=radical)
+<br>
+
+[![Pablo's GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thelario&langs_count=3&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=thelario&langs_count=3&theme=radical)
