@@ -2,33 +2,15 @@
   
   # HELLO THERE! 👾
   
-  ### `GAME DEVELOPER` · `PROGRAMMER` · `HUMMUS ENTHUSIAST`
+  ## `GAME DEVELOPER` · `PROGRAMMER` · `HUMMUS ENTHUSIAST`
   
-  <br>
-
-  <h3>🚀 What I'm up to</h3>
+  ### 🚀 What I'm up to
   
-  🎮 **I've published [Project Romboid] on Steam** — a hard arcade roguelite shooter made with **Unity & C#**.
-  
-  <br>
-  
-  ⚙️ **I'm currently learning C++ and game engine development**, with the slightly insane goal of creating **my own game engine**.
-  
-  <br>
-  
-  🧠 I've been working with **Unity & C# for 5+ years**.
-  
-  <br>
-  
-  📚 I love **videogames, programming and reading**.
-  
-  <br>
-  
-  🧆 I also have a completely reasonable love for **hummus**.
-  
-  <br>
-  
-  🃏 **Currently making a game about stickers!!**
+  - I've published Project Romboid on Steam, a hard arcade roguelite shooter made with **Unity & C#**.
+  - Currently making a game about stickers!!
+  - I've been working with Unity & C# for 5+ years.
+  - I love videogames, programming and reading.
+  - I also have a completely unhealthy love for hummus (really, I can't spend a day without it).
 
 </div>
 
